@@ -1,6 +1,6 @@
 # Capstone_FraudDetection
 
-## 2 files for EDA & time series exploration 
+## 2 files for EDA on selected variables & time series exploration 
 - Capstone_JC (unmerged to see test vs. train time trend).ipynb
 - Capstone_JC_Periodicity (merged to explore Periodicity).ipynb
 
